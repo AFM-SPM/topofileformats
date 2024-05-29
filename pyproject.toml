@@ -40,3 +40,6 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://github.com/AFM-SPM/topofileformats"
 "Bug Tracker" = "https://github.com/AFM-SPM/topofileformats/issues"
+
+[tool.setuptools_scm]
+write_to = "_version.py"
